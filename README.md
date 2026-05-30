@@ -10,12 +10,12 @@ This project demonstrates basic AWS services.
 - Explored AWS Management Console
 
 ## Screenshots
-
 ### EC2 Instance
-![EC2](Screenshot%202026-05-26%20102203.png)
+![EC2](./Screenshot%202026-05-26%20102203.png)
 
 ### S3 Bucket
-![S3](Screenshot%202026-05-24%20163007.png)
+![S3](./Screenshot%202026-05-24%20163007.png)
+
 
 ## Skills Learned
 - AWS EC2
